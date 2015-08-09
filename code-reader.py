@@ -1,3 +1,6 @@
+# Example :
+#  python code-reader.py urls.txt images 100 png
+
 import qrtools
 import sys
 
