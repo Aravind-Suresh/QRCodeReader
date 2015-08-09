@@ -2,6 +2,8 @@
 #																  #
 # URL List generator - Utility to create a list of URLs with ease #
 #											(random params)		  #
+# Created by : 													  #
+#		Aravind Suresh (8th Aug 2015)							  #
 ###################################################################
 
 # Run this program like

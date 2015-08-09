@@ -2,6 +2,8 @@
 #																			#
 # File Downloader - Utility to download files from a list of URLs with ease #
 #																			#
+# Created by : 													  			#
+#		Aravind Suresh (8th Aug 2015)							  			#
 #############################################################################
 
 # Run this program like

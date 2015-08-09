@@ -1,5 +1,17 @@
+#############################################################################
+#																			#
+# QR Code reader accuracy - Utility to determine accuracy of QR code reader	#
+#																			#
+# Created by : 													  			#
+#		Aravind Suresh (9th Aug 2015)							  			#
+#############################################################################
+
+# Run this program like
+# 		$ python code-reader.py <input_filename_urls> <image_dir> <number_of_files> <extension>
 # Example :
 #  python code-reader.py urls.txt images 100 png
+
+# It will verify the accuracy of the qrtools library in python
 
 import qrtools
 import sys
